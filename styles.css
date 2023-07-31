@@ -8,7 +8,7 @@
 	width:600px;
 
 }
-.text{
+.left-umg{
 	align-items:center;
 	padding:60px;
 }
@@ -19,7 +19,7 @@ p{
 	font-type:bold;
 	
 }
-.card{
+.signup{
 	width:150px;
 	height:150px;
 	background-color:white;
@@ -46,4 +46,6 @@ a{
 #email{
 	margin:20px;
 }
+#password{
+	margin:10px;
 }
