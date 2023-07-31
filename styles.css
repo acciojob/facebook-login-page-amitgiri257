@@ -1,1 +1,49 @@
 /*  your css code here. If applicable */
+.main{
+	display:flex;
+	background-color:#F6F6F6;
+	justify-content:space-around;
+	align-items:center;
+	height:600px;
+	width:600px;
+
+}
+.text{
+	align-items:center;
+	padding:60px;
+}
+h1{
+	color:#1A77F2;
+}
+p{
+	font-type:bold;
+	
+}
+.card{
+	width:150px;
+	height:150px;
+	background-color:white;
+	border-shadow:2px 2px solid grey;
+	padding:60px;
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+}
+#blue{
+	background-color:#1A77F2;
+	color:white;
+	width:180px;
+	margin:10px;
+	
+}
+#green{
+	background-color:seagreen;
+	color:white;
+}
+a{
+	text-decoration:none;
+}
+#email{
+	margin:20px;
+}
+}
